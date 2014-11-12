@@ -1,0 +1,25 @@
+{
+  "name": "underscorejs-cheatsheet",
+  "version": "1.0.0",
+  "description": "underscorejs-cheatsheet\r =======================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shoota/underscorejs-cheatsheet.git"
+  },
+  "keywords": [
+    "underscore"
+  ],
+  "author": "shoota",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shoota/underscorejs-cheatsheet/issues"
+  },
+  "homepage": "https://github.com/shoota/underscorejs-cheatsheet",
+  "dependencies": {
+    "underscore": "^1.7.0"
+  }
+}
